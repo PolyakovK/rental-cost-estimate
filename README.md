@@ -42,6 +42,6 @@ preprocessing.ipynb - jupyter notebook файл, где показан весь 
 * Точечные распределения признаков с коэффициентом Пирсона более 0.5
 * Гистограмма распределения стоимости аренды
 
-![corr_matrix](scr/matrix.png)
-![scatter](scr/scatter.png)
-![hist](scr/hist.png)
+![corr_matrix](src/matrix.png)
+![scatter](src/scatter.png)
+![hist](src/hist.png)
